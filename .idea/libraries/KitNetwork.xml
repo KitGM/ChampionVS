@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="KitNetwork">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/KitNetwork/KitNetworkServer/plugins/KitNetwork.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/KitNetwork/KitNetworkServer/plugins/KitNetwork.jar!/" />
+    </SOURCES>
+  </library>
+</component>
