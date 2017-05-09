@@ -9,7 +9,7 @@ public class ChampionVS extends JavaPlugin implements Listener {
 
     private static ChampionVS instance;
 
-    public ChampionVS(){
+    public void onEnable(){
         instance = this;
         Bukkit.getServer().getPluginManager().registerEvents(this, this);
         KNCore.log("ChampionVS Enabled!");
